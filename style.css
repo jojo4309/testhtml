@@ -1,0 +1,17 @@
+body {
+  background-color: cyan;
+}
+
+
+.textcolor {
+  color: gray;
+  font-size:20px;
+}
+.center {
+  text-align: center; 
+}
+
+img{
+	width:700;
+	margin:auto;
+}

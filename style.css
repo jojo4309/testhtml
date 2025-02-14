@@ -1,11 +1,13 @@
-body {
-  background-color: cyan;
+ body {
+  background-image: linear-gradient(cyan,green,purple,yellow,red,black)
 }
 
 
 .textcolor {
   color: gray;
   font-size:20px;
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+ 
 }
 .center {
   text-align: center; 
@@ -14,4 +16,21 @@ body {
 img{
 	width:700;
 	margin:auto;
+	border-style: solid;
+	border-color: black;
+	border-radius: 15%;
+}
+
+.font{
+	font-size: 60px;
+}
+
+.backround {
+  background-color: cyan
+}
+
+p {
+	background-color: pink;
+	color: gray;
+	font-size:20px;
 }
